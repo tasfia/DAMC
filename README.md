@@ -1,6 +1,6 @@
 # DAMC
 
-Adversarial Network with Multiple Classiﬁers for Open Set Domain Adaptation 
+Adversarial Network with Multiple Classiﬁers for Open Set Domain Adaptation, IEEE Transactions on Multimedia, 2020 
 
 arXiv: https://arxiv.org/pdf/2007.00384.pdf
 
