@@ -1,5 +1,4 @@
 import torch.optim as opt
-from models.basenet import *
 import torch
 
 def get_model(net, num_class=13, unit_size=100):
